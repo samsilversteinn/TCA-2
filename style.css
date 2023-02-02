@@ -1,0 +1,73 @@
+body {
+    font-family: Helvetica;
+    color: white;
+    background-image: url(https://www.u-buy.jp/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjF0dC0xSmhDUkwuX0FDX1NMMTAwMF8uanBn.jpg);
+    display:cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+table {
+    max-width: 900px;
+    margin: auto;
+    color: navy;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #48494B;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav #name {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-style: normal;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.hometable {
+    margin-left: auto;
+    margin-right: auto;
+}
+img.shadow-filter:hover {
+    filter: drop-shadow(8px 8px 10px black);
+}
+h1 {
+    text-align:center;
+    font-size:45px;
+    color: black;
+}
+.center {
+  background-color: gray;
+  padding: 10px
+  text-align: center;
+  font-family: Helvetica;
+  color: lightblue;
+  font-size: 22px;
+}
+h1 {
+    font-family: verdana;
+    font-size: 35px;
+    padding:15px;
+    text-align:center;
+     margin-left: auto;
+    margin-right: auto;
+}
